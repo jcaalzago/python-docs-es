@@ -125,6 +125,7 @@ Dividimos esta sección en dos partes, los términos que se traducen y los que m
 
    floor division
      división entera a la baja
+     En este `issue`_ más información al respecto.
 
    key
      clave

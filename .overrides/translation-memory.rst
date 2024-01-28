@@ -323,5 +323,5 @@ Estas son las reglas de estilo que hemos convenido hasta el momento:
 
   Referencia: https://www.fundeu.es/recomendacion/locuciones-latinas-latinismos-errores-frecuentes-621/
 
-
 .. _issue: https://github.com/python/python-docs-es/issues/2754
+
